@@ -22,5 +22,29 @@
     "title": "Business Quarterly",
     "description": "Market analysis, investment trends, and business strategies for Q4 2023.",
     "buttonText": "Read Archived Issue"
+  },
+  {
+    "image": "https://example.com/images/Spring_Growth.png",
+    "title": "Spring Growth Report",
+    "description": "Fresh insights into cultivation trends and seasonal business strategies.",
+    "buttonText": "Read Issue"
+  },
+  {
+    "image": "https://example.com/images/Innovation_Edition.png",
+    "title": "Innovation Spotlight",
+    "description": "Highlighting the latest cannabis tech disrupting the industry.",
+    "buttonText": "Read Archived Issue"
+  },
+  {
+    "image": "https://example.com/images/Wellness_Series.png",
+    "title": "Wellness & Cannabis",
+    "description": "A deep dive into the intersection of holistic wellness and cannabis use.",
+    "buttonText": "Read More"
+  },
+  {
+    "image": "https://example.com/images/Global_Trends.png",
+    "title": "Global Market Trends",
+    "description": "International cannabis regulations, expansions, and economic forecasts.",
+    "buttonText": "Read Archived Issue"
   }
 ]
