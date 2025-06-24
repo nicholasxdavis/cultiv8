@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://example.com/images/Winter_Edition.png",
+    "title": "Winter 2023 Edition",
+    "description": "Our annual review of industry trends and predictions for the coming year.",
+    "buttonText": "Read Issue"
+  },
+  {
+    "image": "https://example.com/images/Sustainability_Focus.png",
+    "title": "Sustainability Focus",
+    "description": "How leading companies are reducing their environmental impact through innovation.",
+    "buttonText": "Read Archived Issue"
+  },
+  {
+    "image": "https://example.com/images/Science_Special.png",
+    "title": "Science Special",
+    "description": "Breakthrough research and studies that are shaping the future of cannabis science.",
+    "buttonText": "Read Archived Issue"
+  },
+  {
+    "image": "https://example.com/images/Business_Quarterly.png",
+    "title": "Business Quarterly",
+    "description": "Market analysis, investment trends, and business strategies for Q4 2023.",
+    "buttonText": "Read Archived Issue"
+  }
+]
