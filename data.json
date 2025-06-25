@@ -3,48 +3,56 @@
     "image": "https://example.com/images/Winter_Edition.png",
     "title": "Winter 2023 Edition",
     "description": "Our annual review of industry trends and predictions for the coming year.",
-    "buttonText": "Read Issue"
+    "buttonText": "Read Issue",
+    "redirect": "blogs/winter_2023_edition.html"
   },
   {
     "image": "https://example.com/images/Sustainability_Focus.png",
     "title": "Sustainability Focus",
     "description": "How leading companies are reducing their environmental impact through innovation.",
-    "buttonText": "Read Archived Issue"
+    "buttonText": "Read Archived Issue",
+    "redirect": "blogs/sustainability_focus.html"
   },
   {
     "image": "https://example.com/images/Science_Special.png",
     "title": "Science Special",
     "description": "Breakthrough research and studies that are shaping the future of cannabis science.",
-    "buttonText": "Read Archived Issue"
+    "buttonText": "Read Archived Issue",
+    "redirect": "blogs/science_special.html"
   },
   {
     "image": "https://example.com/images/Business_Quarterly.png",
     "title": "Business Quarterly",
     "description": "Market analysis, investment trends, and business strategies for Q4 2023.",
-    "buttonText": "Read Archived Issue"
+    "buttonText": "Read Archived Issue",
+    "redirect": "blogs/business_quarterly.html"
   },
   {
     "image": "https://example.com/images/Spring_Growth.png",
     "title": "Spring Growth Report",
     "description": "Fresh insights into cultivation trends and seasonal business strategies.",
-    "buttonText": "Read Issue"
+    "buttonText": "Read Issue",
+    "redirect": "blogs/spring_growth_report.html"
   },
   {
     "image": "https://example.com/images/Innovation_Edition.png",
     "title": "Innovation Spotlight",
     "description": "Highlighting the latest cannabis tech disrupting the industry.",
-    "buttonText": "Read Archived Issue"
+    "buttonText": "Read Archived Issue",
+    "redirect": "blogs/innovation_spotlight.html"
   },
   {
     "image": "https://example.com/images/Wellness_Series.png",
     "title": "Wellness & Cannabis",
     "description": "A deep dive into the intersection of holistic wellness and cannabis use.",
-    "buttonText": "Read More"
+    "buttonText": "Read More",
+    "redirect": "blogs/wellness_and_cannabis.html"
   },
   {
     "image": "https://example.com/images/Global_Trends.png",
     "title": "Global Market Trends",
     "description": "International cannabis regulations, expansions, and economic forecasts.",
-    "buttonText": "Read Archived Issue"
+    "buttonText": "Read Archived Issue",
+    "redirect": "blogs/global_market_trends.html"
   }
 ]
