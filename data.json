@@ -54,13 +54,5 @@
     "description": "International cannabis regulations, expansions, and economic forecasts.",
     "buttonText": "Read Archived Issue",
     "redirect": "blogs/global_market_trends.html"
-  },
-  {
-    "image": "https://raw.githubusercontent.com/nicholasxdavis/cultiv8/main/assets/blog_1751317070951_IMG_9205.jpg",
-    "title": "Example",
-    "description": "test",
-    "buttonText": "Read More",
-    "redirect": "blogs/example.html",
-    "date": "June 30, 2025"
   }
 ]
