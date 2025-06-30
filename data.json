@@ -28,13 +28,6 @@
     "redirect": "blogs/business_quarterly.html"
   },
   {
-    "image": "https://example.com/images/Spring_Growth.png",
-    "title": "Spring Growth Report",
-    "description": "Fresh insights into cultivation trends and seasonal business strategies.",
-    "buttonText": "Read Issue",
-    "redirect": "blogs/spring_growth_report.html"
-  },
-  {
     "image": "https://raw.githubusercontent.com/nicholasxdavis/cultiv8/main/assets/blog_1751317312845_✨PASTRY_of_the_MOMENT✨_Cheesecakes_have_returned_for_this_weekend!!!_Stop_by_and_try_this_beautiful_Almond_Lime_Cheesecake_with_a_Coconut_Cream_Glaze_😋_made_with_@chilasospices_Lime_Salt_",
     "title": "Example Blog",
     "description": "International cannabis regulations, expansions, and economic forecasts.",
