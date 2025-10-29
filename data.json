@@ -14,5 +14,13 @@
     "buttonText": "Read More",
     "redirect": "blogs/test.html",
     "date": "October 29, 2025"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nicholasxdavis/cultiv8/main/assets/blog_1761776197807_example.jpg",
+    "title": "Hello world",
+    "description": "testing",
+    "buttonText": "Read More",
+    "redirect": "blogs/hello_world.html",
+    "date": "October 29, 2025"
   }
 ]
