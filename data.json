@@ -6,5 +6,13 @@
     "buttonText": "Read More",
     "redirect": "blogs/example_blog.html",
     "date": "June 30, 2025"
+  },
+  {
+    "image": "https://raw.githubusercontent.com/nicholasxdavis/cultiv8/main/assets/blog_1761775286591_new-logo.png",
+    "title": "test",
+    "description": "test",
+    "buttonText": "Read More",
+    "redirect": "blogs/test.html",
+    "date": "October 29, 2025"
   }
 ]
